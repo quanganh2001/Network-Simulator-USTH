@@ -19,9 +19,10 @@
 # Course plan
 ## Lectures
 1. [Introduction to Network Simulation](Lectures/Lecture%201.pdf)
-2. Computer Networks revise
-3. Network models in NS-3
+2. [Computer Networks revise](Lectures/Lecture%202.pdf)
+3. [Network models in NS-3](Lectures/Lecture%203.pdf)
 4. Implement simulation scenario in NS-3
 5. Logging and analyze results
 ## Labworks
 1. [Running the first script](Labworks/Labwork1/README.md)
+2. [Logging, Attributes and tracing](Labworks/Labwork2/README.md)
