@@ -26,3 +26,4 @@
 ## Labworks
 1. [Running the first script](Labworks/Labwork1/README.md)
 2. [Logging, Attributes and tracing](Labworks/Labwork2/README.md)
+3. [Building Topologies (Part 1)](Labworks/Labwork3/README.md)
