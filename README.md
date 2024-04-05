@@ -21,9 +21,11 @@
 1. [Introduction to Network Simulation](Lectures/Lecture%201.pdf)
 2. [Computer Networks revise](Lectures/Lecture%202.pdf)
 3. [Network models in NS-3](Lectures/Lecture%203.pdf)
-4. Implement simulation scenario in NS-3
-5. Logging and analyze results
+4. [Design simulation scenario](Lectures/Lecture4.pdf)
+5. Implement simulation scenario in NS-3
+6. Logging and analyze results
 ## Labworks
 1. [Running the first script](Labworks/Labwork1/README.md)
 2. [Logging, Attributes and tracing](Labworks/Labwork2/README.md)
 3. [Building Topologies (Part 1)](Labworks/Labwork3/README.md)
+4. [Building Topologies (Part 2)](Labworks/Labwork4/README.md)
