@@ -2,6 +2,7 @@
 - [Course plan](#course-plan)
   - [Lectures](#lectures)
   - [Labworks](#labworks)
+  - [Final Project](#final-project)
 
 # Course Information
 - Prerequisites:
@@ -29,3 +30,12 @@
 2. [Logging, Attributes and tracing](Labworks/Labwork2/README.md)
 3. [Building Topologies (Part 1)](Labworks/Labwork3/README.md)
 4. [Building Topologies (Part 2)](Labworks/Labwork4/README.md)
+## Final Project
+Final Project includes
+- 1 file source code of the main function (.cc)
+- Report (less than 5 pages): contains at least protocol description, scenario design, implementation, data collection, and analysis.
+- Presentation of 5 minutes.
+
+**Notes**: Only the group leader submits the code and report.
+
+See the problem [here](FinalProject/Labwork5.pdf)
