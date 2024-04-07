@@ -76,7 +76,7 @@ main (int argc, char *argv[])
   phy.SetChannel (channel.Create ());
 
   WifiHelper wifi;
-  wifi.SetRemoteStationManager ("ns3::AarfWifiManager");
+  wifi.SetRemoteStationManager ("ns3::IdealWifiManager");
 
   WifiMacHelper mac;
   Ssid ssid = Ssid ("ns-3-ssid");
